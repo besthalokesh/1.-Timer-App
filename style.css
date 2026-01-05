@@ -1,0 +1,56 @@
+#labelText{
+    display: block;
+    font-size: 10rem;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(81, 129, 129);
+
+}
+#btnContainer{
+    text-align: center;
+}
+.button{
+     font-size: 1.5em;
+    color: rgb(248, 245, 245);
+    /* background-color:rgb(41, 59, 59); */
+    background-color: transparent;
+    text-align: center;
+    cursor: pointer;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid rgb(31, 39, 39);
+    transition: background-color 0.25s;
+    border-radius: 30px;
+    font-family: 'Courier New', Courier, monospace;
+   
+}
+
+.button:hover{
+    background-color:rgb(218, 224, 224) ;
+    color: rgb(41, 59, 59);
+}
+body{
+    background-color: darkslategray;
+    margin: 0;
+}
+
+.whole{
+    height: 400px;
+    width: auto;
+    background-color:rgb(41, 59, 59) ;
+    padding: 10px;
+    margin: 50px;
+    border-radius: 10px;
+    border: 2px solid black;
+     text-align: center;
+
+     transition: box-shadow 0.3s ease-in-out;
+
+}
+
+.timer{
+    color: beige;
+    
+}
