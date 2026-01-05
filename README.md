@@ -21,7 +21,7 @@ This project demonstrates DOM manipulation and event handling by allowing users 
 └── index.js        # JavaScript logic for timer functionality
 
 
-
+ ---
 # CONTACT :
  Besta Lokesh Kumar
  Mail : bestalokesh22@gmail.com 
